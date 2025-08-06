@@ -6,10 +6,10 @@ An exploratory data analysis (EDA) project on personal loan acceptance using cus
 
 ## 🔗 Quick Links
 
-- 🔙 [Back to All Data Science Projects](https://github.com/ShivamMahto2105/Data-Science-Projects)
-- 📄 [View this Project on GitHub](https://github.com/ShivamMahto2105/Data-Science-Projects/blob/main/1.%20Finance%20Loan%20Project/Bank_Loan_Analysis.pdf)
-- 📥 [Download the Dataset (Bank.csv)](https://github.com/ShivamMahto2105/Data-Science-Projects/blob/main/1.%20Finance%20Loan%20Project/Bank.csv)
-- 📘 [View Data Description](https://github.com/ShivamMahto2105/Data-Science-Projects/blob/main/1.%20Finance%20Loan%20Project/Data_Description.txt)
+- 🔙 [Back to All Data Science Projects](https://github.com/ShivamMahto2105/Finance)
+- 📄 [View this Project on GitHub](https://github.com/ShivamMahto2105/Finance/tree/main/1.%20Bank)
+- 📥 [Download the Dataset (Bank.csv)](https://github.com/ShivamMahto2105/Finance/blob/main/1.%20Bank/Bank_Personal_Loan_Modelling.csv)
+- 📘 [View Data Description](https://github.com/ShivamMahto2105/Finance/blob/main/1.%20Bank/Data%20Description.pdf)
 
 ---
 

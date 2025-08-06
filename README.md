@@ -9,11 +9,11 @@ Each project here is designed with clean code, practical business relevance, and
 
 ## 📌 Projects
 
-### 1. [Bank Personal Loan Analysis](https://github.com/ShivamMahto2105/Data-Science-Projects/tree/main/1.%20Finance%20Loan%20Project)
+### 1. [Bank Personal Loan Analysis](https://github.com/ShivamMahto2105/Finance/tree/main/1.%20Bank)
 **Description:**  
 My first finance project, focused on customer behavior regarding personal loan acceptance at Thera Bank. This exploratory data analysis (EDA) project identifies key factors such as income, credit card usage, and education level that influence whether a customer accepts a loan offer.
 
-➡️ **[View Project Here](https://github.com/ShivamMahto2105/Data-Science-Projects/tree/main/1.%20Finance%20Loan%20Project)**
+➡️ **[View Project Here](https://github.com/ShivamMahto2105/Finance/tree/main/1.%20Bank)**
 
 ---
 
